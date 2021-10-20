@@ -11,7 +11,8 @@ module.exports = {
     ],
     '自动化': [
       'automation/index',
-      'automation/deploy'
+      'automation/deploy',
+      'automation/auto-ui-test-road'
     ],
     '软件开发': [
       'software_develop/index',
