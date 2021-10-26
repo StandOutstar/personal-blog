@@ -45,13 +45,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/StandOutstar/it-blog/tree/master/',
+            'https://github.com/StandOutstar/personal-blog/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/StandOutstar/it-blog/tree/master/',
+            'https://github.com/StandOutstar/personal-blog/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
