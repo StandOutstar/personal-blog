@@ -101,7 +101,7 @@ if __name__ == '__main__':
 
 最终效果
 
-![no_js_render](../../static/img/use_js_render.png)
+![no_js_render](/img/use_js_render.png)
 
 可以看出，最终 HTML 的标签都是已经全部由模板引擎生成，只需浏览器根据标签生成 DOM 元素展示在页面上。
 
@@ -218,7 +218,7 @@ if __name__ == '__main__':
 ```
 最终效果
 
-![no_js_render](../../static/img/no_js_render.png)
+![no_js_render](/img/no_js_render.png)
 
 可以看出，模板引擎只向最终的 HTML 渲染了数据，模板中也只定义了骨架，最终是在浏览器里由 JS 生成了完整的内容然后浏览器渲染出来。
 

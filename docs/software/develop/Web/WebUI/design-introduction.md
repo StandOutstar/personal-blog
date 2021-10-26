@@ -36,7 +36,7 @@ web 宽度设计可以设计成常见的 1024 或者 自适应布局，以获得
 
 ## 网页构成
 
-![web_component](../../../static/img/../../../static/img/Xnip2021-03-10_19-24-24.png)
+![web_component](/img/Xnip2021-03-10_19-24-24.png)
 
 ## 网页实现
 
